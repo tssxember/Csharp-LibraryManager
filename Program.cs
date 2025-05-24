@@ -46,7 +46,7 @@ class LibraryManager
                 case "6":
                     return;
                 default:
-                    Console.WriteLine("Invalid action. Please type 'add', 'remove', 'search', 'borrow', 'return', or 'exit'.");
+                    Console.WriteLine("Invalid action. Please type 1.add, 2.remove, 3.search, 4.borrow, 5.return, or 6.exit.");
                     break;
             }
 
