@@ -1,0 +1,14 @@
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\obj\Debug\net9.0\Module5Section1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\obj\Debug\net9.0\Module5Section1.AssemblyInfoInputs.cache
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\obj\Debug\net9.0\Module5Section1.AssemblyInfo.cs
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\obj\Debug\net9.0\Module5Section1.csproj.CoreCompileInputs.cache
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\bin\Debug\net9.0\Module5Section1.exe
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\bin\Debug\net9.0\Module5Section1.deps.json
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\bin\Debug\net9.0\Module5Section1.runtimeconfig.json
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\bin\Debug\net9.0\Module5Section1.dll
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\bin\Debug\net9.0\Module5Section1.pdb
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\obj\Debug\net9.0\Module5Section1.dll
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\obj\Debug\net9.0\refint\Module5Section1.dll
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\obj\Debug\net9.0\Module5Section1.pdb
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\obj\Debug\net9.0\Module5Section1.genruntimeconfig.cache
+C:\Users\tssxe\OneDrive\University\Courera\Microsoft\Module5Section1\obj\Debug\net9.0\ref\Module5Section1.dll
